@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "PROPERTYRT": "Residential",
+      "CMNCMNKEY": 1,
+      "LISTAGENTNAME": "John Smith",
+      "LISTAGENTOFFICE": "Dream Homes Realty",
+      "PICTURE": [
+        "https://picsum.photos/600/400?1",
+        "https://picsum.photos/600/400?2",
+        "https://picsum.photos/600/400?3"
+      ],
+      "IDCMLSNUMBER": "MLS123456",
+      "SQFT": 2200,
+      "BEDS": 3,
+      "IDCREMARKS": "Beautiful family home located near parks and schools.",
+      "IDCSTATUS": "Active",
+      "IDCLISTPRICE": 550000,
+      "IDCDISPLAYADDRESS": true,
+      "MLSPHOTOCOUNT": 3,
+      "IDCPROPERTYTYPE": "Single Family",
+      "BATHSTOTAL": 2,
+      "IDCFULLADDRESS": "123 Main Street, Los Angeles, CA"
+    },
+    {
+      "PROPERTYRT": "Condo",
+      "CMNCMNKEY": 2,
+      "LISTAGENTNAME": "Emily Johnson",
+      "LISTAGENTOFFICE": "Skyline Brokers",
+      "PICTURE": [
+        "https://picsum.photos/600/400?4",
+        "https://picsum.photos/600/400?5"
+      ],
+      "IDCMLSNUMBER": "MLS654321",
+      "SQFT": 1400,
+      "BEDS": 2,
+      "IDCREMARKS": "Modern condo with city skyline views.",
+      "IDCSTATUS": "Pending",
+      "IDCLISTPRICE": 370000,
+      "IDCDISPLAYADDRESS": true,
+      "MLSPHOTOCOUNT": 2,
+      "IDCPROPERTYTYPE": "Condo",
+      "BATHSTOTAL": 2,
+      "IDCFULLADDRESS": "500 Sunset Blvd, Los Angeles, CA"
+    }
+  ]
+}
